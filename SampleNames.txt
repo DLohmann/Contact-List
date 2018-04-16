@@ -1,0 +1,7 @@
+Name	Phone
+Abby	1
+Blenda	2
+Cathy	3
+Daniela	4
+Evelyn	5
+Francesca	6

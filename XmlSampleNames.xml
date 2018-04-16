@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <person>
+    <PersonName>Alice</PersonName>
+    <phone>0000</phone>
+  </person>
+  <person>
+    <PersonName>Bob</PersonName>
+    <phone>0001</phone>
+  </person>
+  <person>
+    <PersonName>Cathy</PersonName>
+    <phone>0010</phone>
+  </person>
+  <person>
+    <PersonName>Daniel</PersonName>
+    <phone>0011</phone>
+  </person>
+</Contacts>
